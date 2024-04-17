@@ -1,0 +1,16 @@
+{
+  "name": "send-mail-with-excel",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "exceljs": "^4.4.0",
+    "nodemailer": "^6.9.13"
+  }
+}
